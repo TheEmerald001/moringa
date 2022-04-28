@@ -1,1 +1,1 @@
-This directory contains basics on git and github
+test code
